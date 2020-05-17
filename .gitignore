@@ -30,15 +30,15 @@ npm-debug.log*
 /plugins
 /www
 
-main.ts
-polyfills.ts
-test.ts
-zone-flags.ts
-angular.json
-ionic.config.json
-karma.conf.js
-ng-package.json
-package-lock.json
-tsconfig.app.json
-tsconfig.spec.json
-tslint.json
+/main.ts
+/polyfills.ts
+/test.ts
+/zone-flags.ts
+/angular.json
+/ionic.config.json
+/karma.conf.js
+/ng-package.json
+/package-lock.json
+/tsconfig.app.json
+/tsconfig.spec.json
+/tslint.json

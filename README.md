@@ -1,7 +1,8 @@
 <h1 align="center">Ionic Theme Switcher</h1>
 <h4>A simple custom switch theme colors directive in Ionic 5 with Angular. Change all colors of the theme with one click.</h4>
-
-->![Live Exemple](theme-switcher.gif)<-
+ <p align="center"> 
+    <img src="theme-switcher.gif" alt="Live">
+ </p>
 
  <h2>Install</h2>
  
